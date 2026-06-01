@@ -113,7 +113,7 @@ export const heroConfig: HeroConfig = {
 }
 
 export const manifestoConfig: ManifestoConfig = {
-  videoPath: '/videos/manifesto.mp4',
+  videoPath: '/THE-SILENT-SURFACE/videos/manifesto.mp4',
   text: 'The Lunar Observatory was established to maintain an unbroken line of sight to the moon. We believe the surface holds patterns invisible to conventional imaging. Through ASCII telemetry, we render the lunar topology in characters — each symbol a pixel of truth. Our facilities across four continents synchronize their observations, creating a composite view that no single telescope can achieve. The silent surface is not empty. It is a text written in light and shadow, waiting to be read.',
 }
 
@@ -133,7 +133,7 @@ export const facilitiesConfig: FacilitiesConfig = {
       phone: '+1-787-555-0142',
       ctaText: 'VIEW TELEMETRY',
       ctaHref: '#observation',
-      image: '/images/facility-arecibo.jpg',
+      image: '/THE-SILENT-SURFACE/images/facility-arecibo.jpg',
       utcOffset: -4,
       article: {
         title: 'The Arecibo Legacy',
@@ -154,7 +154,7 @@ export const facilitiesConfig: FacilitiesConfig = {
       phone: '+56-2-555-0189',
       ctaText: 'VIEW TELEMETRY',
       ctaHref: '#observation',
-      image: '/images/facility-atacama.jpg',
+      image: '/THE-SILENT-SURFACE/images/facility-atacama.jpg',
       utcOffset: -4,
       article: {
         title: 'Desert Precision',
@@ -175,7 +175,7 @@ export const facilitiesConfig: FacilitiesConfig = {
       phone: '+1-808-555-0234',
       ctaText: 'VIEW TELEMETRY',
       ctaHref: '#observation',
-      image: '/images/facility-mauna.jpg',
+      image: '/THE-SILENT-SURFACE/images/facility-mauna.jpg',
       utcOffset: -10,
       article: {
         title: 'Above the Clouds',
@@ -196,7 +196,7 @@ export const facilitiesConfig: FacilitiesConfig = {
       phone: '+27-21-555-0317',
       ctaText: 'VIEW TELEMETRY',
       ctaHref: '#observation',
-      image: '/images/facility-sutherland.jpg',
+      image: '/THE-SILENT-SURFACE/images/facility-sutherland.jpg',
       utcOffset: 2,
       article: {
         title: 'Southern Hemisphere Watch',
@@ -212,7 +212,7 @@ export const facilitiesConfig: FacilitiesConfig = {
 
 export const observationConfig: ObservationConfig = {
   sectionLabel: 'LIVE OBSERVATION FEED',
-  videoPath: '/videos/observation.mp4',
+  videoPath: '/THE-SILENT-SURFACE/videos/observation.mp4',
   statusText: 'LIVE — RECEIVING',
   latLabel: 'LAT',
   lonLabel: 'LON',
@@ -226,19 +226,19 @@ export const archivesConfig: ArchivesConfig = {
   closeText: 'CLOSE VAULT',
   items: [
     {
-      src: '/images/archive-01.jpg',
+      src: '/THE-SILENT-SURFACE/images/archive-01.jpg',
       label: 'APOLLO 11 SITE — 1969',
     },
     {
-      src: '/images/archive-02.jpg',
+      src: '/THE-SILENT-SURFACE/images/archive-02.jpg',
       label: 'FAR SIDE CRATER FIELD',
     },
     {
-      src: '/images/archive-03.jpg',
+      src: '/THE-SILENT-SURFACE/images/archive-03.jpg',
       label: 'TERMINATOR SHADOW STUDY',
     },
     {
-      src: '/images/archive-04.jpg',
+      src: '/THE-SILENT-SURFACE/images/archive-04.jpg',
       label: 'SOUTH POLE ANOMALY',
     },
   ],
